@@ -1,0 +1,6 @@
+build
+.idea
+csdrsstv.egg-info
+dist
+__pycache__
+

@@ -1,0 +1,9 @@
+from pycsdr.modules import Module
+
+version: str = ...
+csdrsstv_version: str = ...
+
+
+class SstvDecoder(Module):
+    def __init__(self):
+        ...
